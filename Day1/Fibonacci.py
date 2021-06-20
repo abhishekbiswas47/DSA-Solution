@@ -1,4 +1,3 @@
-import array as arr
 import os
 
 def Fibonacci():
